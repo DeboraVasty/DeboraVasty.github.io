@@ -1,0 +1,34 @@
+body{background-image: url(img/network-3537389_1920.jpg);}
+h2{
+   
+            background: rgb(79, 113, 226);        
+    width: 330px;
+    height: 50px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgba(6, 84, 104, 0.808);
+    overflow: hidden;
+    margin: 35px;
+    text-align: center;
+    transition: all 0.25s;
+    border-bottom: 15px;
+}
+
+
+.resaltar{
+    font-weight:unset;
+    color:aliceblue
+}
+
+#conclusion{
+   
+    background: rgb(79, 113, 226);        
+width: 330px;
+height: 350px;
+border-radius: 8px;
+box-shadow: 0 2px 2px rgba(6, 84, 104, 0.808);
+overflow: hidden;
+margin: 20px;
+text-align: center;
+transition: all 0.25s;
+    
+}
